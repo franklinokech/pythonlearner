@@ -1,3 +1,5 @@
+# Use format() to print a variable weight and a animal inside of another string
+
 weight = 0.2
 animal = "newt"
 

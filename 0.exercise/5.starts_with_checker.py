@@ -1,3 +1,5 @@
+# Check if the string starts with letter 'be'
+
 string1 = "Becomes"
 string2 = "becomes"
 string3 = "BEAR"

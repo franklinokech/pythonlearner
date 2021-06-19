@@ -1,3 +1,5 @@
+# Remove any whitespaces before and/or after the strings
+
 string1 = "    Filet Mignon"
 string2 = "Brisket    "
 string3 = "  Cheeseburger   "
