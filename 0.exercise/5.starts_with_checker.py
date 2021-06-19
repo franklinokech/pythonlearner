@@ -1,11 +1,16 @@
 # Check if the string starts with letter 'be'
+my_strings = [
+    'Becomes',
+    'becomes',
+    'BEAR',
+    'bEautiful',
+]
+# print(type(my_strings))
 
-string1 = "Becomes"
-string2 = "becomes"
-string3 = "BEAR"
-string4 = "  bEautiful"
+for my_string in my_strings:
+    print(my_string.startswith('be'))
 
-print(string1.startswith('be'))
-print(string2.startswith('be'))
-print(string3.startswith('be'))
-print(string4.startswith('be'))
+# counter = 0
+
+# for counter in range(len(my_strings)):
+#     print(my_strings[counter].startswith('be'))

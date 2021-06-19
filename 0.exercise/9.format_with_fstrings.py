@@ -2,5 +2,6 @@
 
 weight = 0.2
 animal = "newt"
+age = 20
 
-print(f'{weight}{animal}')
+print(f'{weight}{animal} and age is {age}')
