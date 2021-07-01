@@ -46,6 +46,9 @@ def get_past_date(past_date):
     elif 'w' in past_date:
         past_date = ini_time_for_now - timedelta(weeks=past_time)
 
+    elif 'm' in past_date:
+        past_date = ini_time_for_now - timedelta(minutes=past_time)
+
     elif 'mo' in past_date or 'mos' in past_date:
         # convert months to days
         past_time *= month_to_days
@@ -55,4 +58,4 @@ def get_past_date(past_date):
     return past_date
 
 
-print(get_past_date('6mos'))
+print(get_past_date('31m'))
