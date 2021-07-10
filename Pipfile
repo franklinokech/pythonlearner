@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 requests = "*"
 geopy = "*"
+pyvirtualdisplay = "*"
+selenium = "*"
+pandas = "*"
+beautifulsoup4 = "*"
+wikipedia = "*"
 
 [dev-packages]
 
