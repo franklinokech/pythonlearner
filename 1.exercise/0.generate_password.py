@@ -18,3 +18,5 @@ def generate_password(password_len):
         password = password + random.choice(
             string.ascii_uppercase + string.ascii_lowercase + string.digits + string.punctuation)
     return password
+
+print(generate_password(10))

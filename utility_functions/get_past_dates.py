@@ -18,7 +18,10 @@ def get_number_from_str(date_str):
     :param date_str: string containing timedelta
     :return x: int number in the timedelta
     """
-    x = int(re.findall('[0-9]+', date_str)[0])
+    if len(re.findall('[0-9]+', date_str)) > 0:
+        x = int(re.findall('[0-9]+', date_str)[0])
+    else:
+        x = 0
     return x
 
 

@@ -25,4 +25,4 @@ def get_mortgage_loan(principal, interest, years):
     return total_payment
 
 
-print(get_mortgage_loan(100000, 7.5, 30))
+print(get_mortgage_loan(200000, 7.5, 30))
