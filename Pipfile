@@ -11,6 +11,8 @@ selenium = "*"
 pandas = "*"
 beautifulsoup4 = "*"
 wikipedia = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
 
 [dev-packages]
 
