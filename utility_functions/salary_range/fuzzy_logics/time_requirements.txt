@@ -1,6 +1,7 @@
-Full-time
+Full-time|Permanent
 Part-time
 Internship
 Freelance
 Contractor
 Temporary
+Other|N/A

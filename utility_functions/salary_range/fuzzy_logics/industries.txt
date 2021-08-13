@@ -1,17 +1,171 @@
-Agriculture
-Arts Culture Entertainment and Design
-Business Advisory & Consulting
-Consumer Goods & Retail
-Education
-Energy & Utilities
-Financial Services
-Government & Parastatals
-Healthcare & Pharmaceuticals
-ICT (Information, Communication and Technology)
-Legal
-Logistics
-Manufacturing & Construction
-Marketing & Advertising
-NGO
-Real Estate
-Tourism & Hospitality
+Agriculture|
+Agriculture|agriculture
+Agriculture|fishing
+Agriculture|food
+Agriculture|forestry
+Agriculture|natural
+Agriculture|wild
+Agriculture|agricultural
+Agriculture|livestock|
+Agriculture|animal
+Agriculture|veterinarian
+Arts|
+Arts|design
+Arts|entertainment
+Arts|radio
+Arts|tv
+Arts|television
+Arts|events
+Arts|creative
+Consulting|
+Consulting|advisory
+Consulting|business
+Consulting|management
+Retail:
+Retail|goods
+retail|consumer
+Retail|fashion
+Retail|fmcg
+Retail|wholesale
+Retail|textile
+Retail|cosmetics
+Retail|supermarket
+Education|
+Education|learning
+Education|research
+Education|train
+Education|education
+Education|school
+Education|academic
+Education|academy
+Education|training
+Education|teach
+Energy|
+Energy|utilities
+Energy|power
+Energy|electric
+Energy|water
+Energy|gas
+Energy|nuclear
+Energy|environment
+Energy|raw
+Energy|materials
+Energy|minerals
+Energy|mining
+Energy|metal
+Energy|engineering
+Energy|aero
+Energy|auto
+Energy|wind
+Energy|solar
+Energy|petro
+Energy|Natural Resources
+Finance|
+Finance|bank
+Finance|accounting
+Finance|audit
+Finance|insurance
+Finance|fintech
+Finance|financial
+Finance|control
+Finance|sacco
+Finance|microfinance
+Government|
+Government|public
+Government|parastatal
+Government|state
+Government|ministry
+Government|county
+Government|country
+Government|council
+Healthcare|
+Healthcare|associative
+Healthcare|health
+Healthcare|pharmaceuticals
+Healthcare|pharmacy
+Healthcare|medical
+Healthcare|medicine
+ICT|
+ICT|software
+ICT|Computers
+ICT|internet
+ICT|computer
+ICT|telecoms
+ICT|telecommunications
+ICT|telecom
+ICT|data
+ICT|technology
+ICT|web
+ICT|i.c.t
+ICT|IT
+ICT|call
+Legal|
+Legal|law
+Legal|compliance
+Legal|legal
+Legal|regulation
+Legal|regulatory
+Legal|counsel
+Logistics|
+Logistics|surveillance
+Logistics|security
+Logistics|logistics
+Logistics|shipping
+Logistics|transport
+Logistics|storage
+Logistics|procurement
+Logistics|supply
+Logistics|purchasing
+Logistics|trade
+Logistics|drive
+Manufacturing|
+Manufacturing|steel
+Manufacturing|raw
+Manufacturing|materials
+Manufacturing|construction
+Manufacturing|renovation
+Manufacturing|warehousing
+Manufacturing|warehouse
+Manufacturing|manufacture
+Manufacturing|building
+Manufacturing|industry
+Manufacturing|production
+Manufacturing|machinery
+Marketing|
+Marketing|advertising
+Marketing|media
+Marketing|communications
+Marketing|marketing
+Marketing|sales
+NGO|
+NGO|non
+NGO|profit
+NGO|npo
+NGO|charity
+NGO|social
+Real Estate|
+Real Estate|real
+Real Estate|estate
+Real Estate|realtor
+Real Estate|property
+Real Estate|housing
+Real Estate|rental
+Tourism|
+Tourism|hospitality
+Tourism|tour
+Tourism|hotel
+Tourism|travel
+Tourism|restaurant
+Tourism|dining
+Tourism|accomdation
+Tourism|eating
+Talent|
+Talent|human
+Talent|resources
+Talent|talent
+Talent|recruiting
+Talent Development|recruitment
+Automotive & Aviation|
+Automotive & Aviation|automotive
+Automotive & Aviation|aviation
+Research|

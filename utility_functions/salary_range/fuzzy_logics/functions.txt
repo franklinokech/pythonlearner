@@ -1,18 +1,19 @@
-Accounting & Finance
-Administration
-Business Development
-Customer Experience
-Engineering
-Human Resources
-Information Technology
-Learning & Development
-Legal
-Marketing & Sales
-Media and Communication
-Monitoring and Evaluation (Research, Performance Analytics)
-Operations & Manufacturing
-Product Management
-Program & Project Management
-Quality Assurance
-Strategy & Consulting
-Supply Chain & Logistics
+Accounting & Finance|bank|accounting|finance|audit|insurance|fintech|financial
+Administration|admin|office|clerical|secretary|secretarial
+Business Development|development
+Customer Experience|customer|support|care|client
+Engineering|engineer|science|aviation|aeronautics|airline|power|electrical
+Human Resources|hr|human|recruitment
+Information Technology|ICT|software|internet|computer|telecoms|telecommunications|telecom|data|technology|web|i.c.t
+Learning & Development|learning|research|train|education|school|academic|academy|training|teach
+Legal|law|compliance|legal
+Marketing & Sales|advertising|marketing|sales
+Media and Communication|media|communications|social|design|arts|creative|fashion|relations|journalism
+Monitoring and Evaluation (Research, Performance Analytics)|mel|evaluation|monitoring|research
+Operations & Manufacturing|steel|raw|materials|construction|renovation|warehousing|warehouse|manufacture|manufacturing|building|automobile|car|architecture|operations
+Product Management|product
+Program & Project Management|executive|project|program|management
+Quality Assurance|quality|assurance|qa|qc|check
+Strategy & Consulting|strategy|consult|strategic|leader
+Supply Chain & Logistics|surveillance|security|logistics|shipping|transport|storage|procurement|supply|purchasing|trade|drive
+Other|N/A

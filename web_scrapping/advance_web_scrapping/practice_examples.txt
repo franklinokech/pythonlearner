@@ -1,0 +1,2 @@
+https://w3resource.com/python-exercises/web-scraping/index.php
+http://toscrape.com

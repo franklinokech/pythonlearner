@@ -1,7 +1,8 @@
 Primary School
-Diploma
-Bachelor's Degree
-Highschool
+Diploma|Vocational
+Bachelor's Degree|BA/BSc/HND
+Highschool|High|secondary
 Honorary Degree
 Master's Degree
 Post-graduate Degree
+Other|N/A
